@@ -1,0 +1,13 @@
+AuthorName: 'Jaakko Keränen'
+Categories:
+- Internet
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/skyjake/lagrange/issues'
+Name: Lagrange
+SourceCode: 'https://github.com/skyjake/lagrange/'
+WebSite: 'https://gmi.skyjake.fi/lagrange/'
+Summary: 'Smallnet Browser'
+Description: |
+  A beautiful Gemini client and a browser for many other smallnet protocols.
+
+  Beyond the World Wide Web, there is a frontier of hobbyist network protocols that aim to restore a more human-centric ethos to the internet. This is called the "small internet", or smallnet. Lagrange supports many of these protocols and lets you explore smallnet sites while enjoying modern conveniences familiar from web browsers, like beautiful typography, inline image viewing, multiple tabs, visual themes, bookmarks, history, and page outlines.

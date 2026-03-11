@@ -1,7 +1,6 @@
 config.yml
 tmp
 srclibs
-metadata
 repo/status
 repo/diff
 .DS_Store
