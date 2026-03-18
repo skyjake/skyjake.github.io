@@ -2,5 +2,4 @@ config.yml
 tmp
 srclibs
 repo/status
-repo/diff
 .DS_Store
